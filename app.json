@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Number System Converter",
+    "slug": "number-system-converter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": {}
+  }
+}
+
+
